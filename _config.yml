@@ -45,7 +45,7 @@ navigation_header:
 
 # Footer nav
 navigation_footer:
-- title: Back to top
+- title: University of North Texas HSC, Department of Microbiology, Immunology, and Genetics
   url: "#top"
 
 # Collections
@@ -53,4 +53,4 @@ collections:
   posts:
     title: Posts
     output: true
-    feature_image: img/IMG_3077_1300x400.png
+    feature_image: "https://raw.githubusercontent.com/tick-lab/tick-lab.github.io/master/img/IMG_3077_1300x400.png"
