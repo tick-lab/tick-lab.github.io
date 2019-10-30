@@ -25,7 +25,7 @@ baseurl: ''
 title: 'Tick Borne Research Laboratory'
 description: 'University of North Texas HSC'
 permalink: pretty
-logo: "_site/img/tick_thumbnail.png"
+logo: "img/tick_thumbnail.png"
 
 # Pagination
 paginate: 5
