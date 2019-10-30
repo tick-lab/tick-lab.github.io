@@ -13,7 +13,7 @@ title: Selected Publications
 
 * Huebinger RM, Smith AD, **Zhang Y**, Monson NL, Ireland SJ, Barber RC, Kubasiak JC, Minshall CT, Minei JP, Wolf SE & **Allen MS** (2018) [Variations of the lung microbiome and immune response in mechanically ventilated surgical patients](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0205788). PLoS ONE. 13, 10, e0205788
 
-* Durrer KE, **Allen MS** & Von Herbing IH (2017) [Genetically engineered probiotic for the treatment of phenylketonuria (PKU); Assessment of a novel treatment in vitro and in the PAH<enu2></sup> mouse model of PKU](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0176286) PloS ONE. 12, 5, e0176286
+* Durrer KE, **Allen MS** & Von Herbing IH (2017) [Genetically engineered probiotic for the treatment of phenylketonuria (PKU); Assessment of a novel treatment in vitro and in the PAH<sup>enu2</sup> mouse model of PKU](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0176286) PloS ONE. 12, 5, e0176286
 
 * Yuan Y, **Zhang Y**, Fu S, Crippen TL, Visi DK, Benbow EM, **Allen MS**, Tomberlin JK, Sze SH & Tarone AM (2017) [Genome sequence of a *Providencia stuartii* strain isolated from *Lucilia sericata* salivary glands](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5408114/). Genome Annoucements. 5, 17, e00250-17
 
