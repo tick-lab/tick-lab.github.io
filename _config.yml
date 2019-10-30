@@ -45,7 +45,9 @@ navigation_header:
 
 # Footer nav
 navigation_footer:
-- title: University of North Texas HSC, Department of Microbiology, Immunology, and Genetics
+- title: University of North Texas HSC
+  url: "https://www.unthsc.edu/"
+- title: Department of Microbiology, Immunology, and Genetics
   url: "https://www.unthsc.edu/graduate-school-of-biomedical-sciences/microbiology-immunology-genetics/"
 
 # Collections
