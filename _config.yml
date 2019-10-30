@@ -42,6 +42,8 @@ navigation_header:
   url: /blog/
 - title: Tick Testing Services
   url: https://www.unthsc.edu/graduate-school-of-biomedical-sciences/molecular-and-medical-genetics/tick-borne-disease-research-laboratory/
+- title: GitHub
+  url: https://github.com/tick-lab
 
 # Footer nav
 navigation_footer:
