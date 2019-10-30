@@ -1,16 +1,23 @@
 ---
 layout: page
-title: Publications
+title: Selected Publications
 ---
 
-* Ziesemer KA, Ramos-Madrigal J, **Mann AE**, Brandt BW, Sankaranarayanana K, Ozga AT, Hoogland M, Hofman CA, Salazar-Garcia DC, Frohlich B, Milner GR, Stone AC, Aldenderfer M, Lewis CM, Hofman CL, Warinner C, Schroeder H. (2018) [The efficacy of whole genome capture on ancient dental calculus and dentin](https://doi.org/10.1002/ajpa.23763). American Journal of Physical Anthropology 1:14.
+* Thapa S, **Zhang Y** & **Allen MS** (2019) [Bacterial microbiome of *Ixodes scapularis* ticks collected from Massachusetts and Texas, USA](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-019-1514-7). BMC Microbiology. 19, 1, 138 
 
-* **Mann AE**, Sabin S, Ziesemer KA, Vågene Å, Schroeder H, Ozga A, Sankaranarayanan K, Hofman CA, Fellows-Yates J, Salazar Garcia D, Frohlich B, Aldenderfer M, Hoogland M, Read C, Krause J, Hofman C, Bos K, Warinner C. (2018) [Differential preservation of endogenous human and microbial DNA in dental calculus and dentin](https://www.nature.com/articles/s41598-018-28091-9). Scientific Reports 8:9822.
+* Thapa S, **Zhang Y** & **Allen MS** (2019) [Effects of temperature on bacterial microbiome composition in *Ixodes scapularis* ticks](https://onlinelibrary.wiley.com/doi/full/10.1002/mbo3.719). MicrobiologyOpen. 8, 5, e00719
 
-* Warinner C, Herbig A, **Mann AE**, Fellows Yates JA, Weiss CL, Burbano HA, Orlando L, Krause J. (2017) [A robust framework for microbial archaeology](https://www.annualreviews.org/doi/abs/10.1146/annurev-genom-091416-035526). Annu. Rev. Genom. Hum. Genet. 18:321-356.
+* Embers ME, Krishnavajhala A, Armstrong BA, Curtis MW, Pahar B, Wilder HK, **Allen MS**, Beare PA, Hasenkampf NR & Lopez JE (2019) [Immunological responses to the relapsing fever spirochete *Borrelia turicatae* in infected rhesus macaques: implications for pathogenesis and diagnosis](https://iai.asm.org/content/87/4/e00900-18.long). Infection and Immunity. 87, 4, e00900
 
-* Ziesemer KA, **Mann AE**, Sankaranarayanan K, Schroeder H, Ozga AT, Brandt BW, Zaura E, Waters-Rist A, Hoogland M, Salazar-Garcia DC, Aldenderfer M, Speller C, Hendy J, Weston DA, MacDonald SJ, Thomas GH, Collins MJ, Lewis CM, Hofman C, Warinner C*. (2015) [Intrinsic challenges in ancient microbiome reconstruction using 16S rRNA gene amplification](https://www.nature.com/articles/srep16498). Scientific Reports 5, 16498. doi: 10.1038/srep16498.
+* Bridges KN, **Zhang Y**, Curran TE, Magnuson JT, Venables BJ, Durrer KE, **Allen MS** & Roberts AP (2018) [Alterations to the intestinal microbiome and metabolome of *Pimephales promelas* and *Mus musculus* following exposure to dietary methylmercury](https://pubs.acs.org/doi/abs/10.1021/acs.est.8b01150). Environmental Science and Technology. 52, 15, p.8774-8784
 
-## In Press
-* **Mann AE**, Mazel F, Lemay MA, Morien E, Billy V, Kowalewski M, Di Fiore A, Link A, Goldberg TL, Tecot S, Baden AL, Gomez A, Sauther ML, Cuozzo FP, Rice GAO, Dominy NJ, Stumpf R, Lewis RJ, Swedell L, Amato K, Wegener Parfrey L. Biodiversity of protists and nematodes in the wild non-human primate gut. ISME
+* Huebinger RM, Smith AD, **Zhang Y**, Monson NL, Ireland SJ, Barber RC, Kubasiak JC, Minshall CT, Minei JP, Wolf SE & **Allen MS** (2018) [Variations of the lung microbiome and immune response in mechanically ventilated surgical patients](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0205788). PLoS ONE. 13, 10, e0205788
+
+* Durrer KE, **Allen MS** & Von Herbing IH (2017) [Genetically engineered probiotic for the treatment of phenylketonuria (PKU); Assessment of a novel treatment in vitro and in the PAH<enu2></sup> mouse model of PKU](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0176286) PloS ONE. 12, 5, e0176286
+
+* Yuan Y, **Zhang Y**, Fu S, Crippen TL, Visi DK, Benbow EM, **Allen MS**, Tomberlin JK, Sze SH & Tarone AM (2017) [Genome sequence of a *Providencia stuartii* strain isolated from *Lucilia sericata* salivary glands](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5408114/). Genome Annoucements. 5, 17, e00250-17
+
+* **Zhang Y**, Simon SE, Johnson JA & **Allen MS** (2017) [Spatial microbial composition along the gastrointestinal tract of captive Attwater's prairie chicken](https://link.springer.com/article/10.1007%2Fs00248-016-0870-1). Microbial Ecology. 73, 4, p.966-977
+
+* King KL, Smith AD, **Mitchell EA** & **Allen MS** (2017) [Validation of droplet digital PCR for the detection and absolute quantification of *Borrelia* DNA in *Ixodes scapularis* ticks](https://www.cambridge.org/core/journals/parasitology/article/validation-of-droplet-digital-pcr-for-the-detection-and-absolute-quantification-of-borrelia-dna-in-ixodes-scapularis-ticks/A47CEB12C767C573BEB7AD8BD8E3A252). Parasitology. 144, 4, p.359-367
 
