@@ -38,10 +38,10 @@ navigation_header:
   url: /people/
 - title: Publications
   url: /pubs/
-- title: Tick Testing Services
-  url: https://www.unthsc.edu/graduate-school-of-biomedical-sciences/molecular-and-medical-genetics/tick-borne-disease-research-laboratory/
 - title: Blog
   url: /blog/
+- title: Tick Testing Services
+  url: https://www.unthsc.edu/graduate-school-of-biomedical-sciences/molecular-and-medical-genetics/tick-borne-disease-research-laboratory/
 
 # Footer nav
 navigation_footer:
