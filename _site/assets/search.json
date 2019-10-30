@@ -6,21 +6,14 @@
     
     
       {
-        "title": "Hello World",
-        "excerpt": "This is my very first blog post. I haven’t written anything yet but I’m sure I have some great stories to tell.\n",
-        "content": "This is my very first blog post. I haven’t written anything yet but I’m sure I have some great stories to tell.\n",
-        "url": "/general/2018/08/22/hello-world/"
+        "title": "New Lab Website!",
+        "excerpt": "Under construction!\n",
+        "content": "Under construction!\n",
+        "url": "/general/2019/10/30/New-Website-Design/"
       },
     
   
   
-  
-  {
-    "title": "About this website",
-    "excerpt": "\n",
-    "content": "I’m not sure yet what this website is about, but I’m sure I’ll work it out soon.\n",
-    "url": "/about/"
-  },
   
   {
     "title": "Categories",
@@ -37,10 +30,24 @@
   },
   
   {
-    "title": "Welcome to my website",
+    "title": "Welcome!",
     "excerpt": "\n",
-    "content": "There isn’t much going on here yet, but watch this space\n",
+    "content": "Research in the Tick Borne Disease Research Lab at the University of North Texas HSC has two main themes: host-microbiome interactions and vector borne diseases. In the former, we are investigating the roles of the microbiome in health and disease in a number of systems including the gut (IBS) and lung (pneumonia), as well as the changes within the microbiome during times of stress and infection. Basic research is then applied to investigate mechanisms for modulating the microbiome community and the use of natural and genetically engineered pribiotic bacteria for the treatment of diseases such as PKU. Vector-borne disease research in the laboratory focuses on pathogens associated with ticks (e.g. Borrelia spp., Rickettsia spp.) and triatomines (vectors of the parasite causing Chagas disease), and studies of the vector’s microbiome in an effort to identify factors that may influence their capacity to transmit disease. Our lab also conducts pathogen screening of ticks for the Texas Department of State Helath Services\n\n",
     "url": "/"
+  },
+  
+  {
+    "title": "Lab Members",
+    "excerpt": "\n",
+    "content": "\nkdjdkdk\n",
+    "url": "/people/"
+  },
+  
+  {
+    "title": "Publications",
+    "excerpt": "\n",
+    "content": "\n  \n    Ziesemer KA, Ramos-Madrigal J, Mann AE, Brandt BW, Sankaranarayanana K, Ozga AT, Hoogland M, Hofman CA, Salazar-Garcia DC, Frohlich B, Milner GR, Stone AC, Aldenderfer M, Lewis CM, Hofman CL, Warinner C, Schroeder H. (2018) The efficacy of whole genome capture on ancient dental calculus and dentin. American Journal of Physical Anthropology 1:14.\n  \n  \n    Mann AE, Sabin S, Ziesemer KA, Vågene Å, Schroeder H, Ozga A, Sankaranarayanan K, Hofman CA, Fellows-Yates J, Salazar Garcia D, Frohlich B, Aldenderfer M, Hoogland M, Read C, Krause J, Hofman C, Bos K, Warinner C. (2018) Differential preservation of endogenous human and microbial DNA in dental calculus and dentin. Scientific Reports 8:9822.\n  \n  \n    Warinner C, Herbig A, Mann AE, Fellows Yates JA, Weiss CL, Burbano HA, Orlando L, Krause J. (2017) A robust framework for microbial archaeology. Annu. Rev. Genom. Hum. Genet. 18:321-356.\n  \n  \n    Ziesemer KA, Mann AE, Sankaranarayanan K, Schroeder H, Ozga AT, Brandt BW, Zaura E, Waters-Rist A, Hoogland M, Salazar-Garcia DC, Aldenderfer M, Speller C, Hendy J, Weston DA, MacDonald SJ, Thomas GH, Collins MJ, Lewis CM, Hofman C, Warinner C*. (2015) Intrinsic challenges in ancient microbiome reconstruction using 16S rRNA gene amplification. Scientific Reports 5, 16498. doi: 10.1038/srep16498.\n  \n\n\nIn Press\n\n  Mann AE, Mazel F, Lemay MA, Morien E, Billy V, Kowalewski M, Di Fiore A, Link A, Goldberg TL, Tecot S, Baden AL, Gomez A, Sauther ML, Cuozzo FP, Rice GAO, Dominy NJ, Stumpf R, Lewis RJ, Swedell L, Amato K, Wegener Parfrey L. Biodiversity of protists and nematodes in the wild non-human primate gut. ISME\n\n\n",
+    "url": "/pubs/"
   }
   
 ]
