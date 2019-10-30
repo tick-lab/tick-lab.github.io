@@ -3,7 +3,7 @@ layout: post
 title: New Lab Website!
 categories:
 - General
-feature_image: "https://picsum.photos/2560/600?image=872"
+feature_image: img/IMG_3077_1300x400.png
 ---
 
 Under construction!
