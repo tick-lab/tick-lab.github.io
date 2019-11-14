@@ -37,7 +37,7 @@ title: Lab Members
 
 <hr>
 
-<img align="right" width="100" height="100" src="http://raw.githubusercontent.com/tick-lab/tick-lab.github.io/master/img/Austin_Brown.png">
+<img align="right" width="200" height="100" src="http://raw.githubusercontent.com/tick-lab/tick-lab.github.io/master/img/Austin_Brown.png">
 **Austin Brown, Ph.D. Candidate**
 <br/>Research Interests: Neurological development, pathogenic microbes, immune avoidance mechanisms & pathways
 
