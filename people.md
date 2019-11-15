@@ -31,9 +31,9 @@ title: Lab Members
 
 <hr>
 
-<img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">
+<img align="right" width="100" height="100" src="http://raw.githubusercontent.com/tick-lab/tick-lab.github.io/master/img/Viviana_Mancilla.jpg">
 **Viviana Mancilla, Ph.D. Candidate**
-<br/>Research Interests: TBD
+<br/>Research Interests: Gut microbiome, prebiotics, gut fermentation, gut-brain axis, bioinformatics
 
 <hr>
 
