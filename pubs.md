@@ -3,6 +3,8 @@ layout: page
 title: Selected Publications
 ---
 
+* **Mann AE**, **Mitchell E**, **Zhang Y**, Curtis-Robles R, **Thapa S**, Hamer SA, **Allen MS** (2020) [Comparison of the bacterial gut microbiome of North American *Triatoma* spp. with and without *Trypanosoma cruzi*](https://www.frontiersin.org/articles/10.3389/fmicb.2020.00364/full). Frontiers in Microbiology. https://doi.org/10.3389/fmicb.2020.00364
+
 * Thapa S, **Zhang Y** & **Allen MS** (2019) [Bacterial microbiome of *Ixodes scapularis* ticks collected from Massachusetts and Texas, USA](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-019-1514-7). BMC Microbiology. 19, 1, 138 
 
 * Thapa S, **Zhang Y** & **Allen MS** (2019) [Effects of temperature on bacterial microbiome composition in *Ixodes scapularis* ticks](https://onlinelibrary.wiley.com/doi/full/10.1002/mbo3.719). MicrobiologyOpen. 8, 5, e00719
