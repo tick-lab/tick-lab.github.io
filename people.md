@@ -27,12 +27,13 @@ title: Lab Members
 <br/>Research Interests: Lyme disease, vector-borne microbial diseases, host-microbiome interactions, tick salivary proteins
 
 <hr>
+
 **Sabrina White, Ph.D. Candidate**
 <br/>Research Interests: Vector-borne microbial diseases, host-microbiome interactions, microbiome manipulation, tick hormones
 
 <hr>
 
-title: Former Lab Members
+**Former Lab Members**
 
 <hr>
 
