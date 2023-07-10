@@ -17,6 +17,25 @@ title: Lab Members
 
 <hr>
 
+**Rebecca Kilgore, M.S., Research Specialist** 
+<br/>Research Interests: Vector pathogen surveillance, ticks, triatomines
+
+<hr>
+
+<img align="right" width="100" height="100" src="https://raw.githubusercontent.com/tick-lab/tick-lab.github.io/master/img/Megan_Williams.jpeg">
+**Megan Williams, Ph.D. Student**
+<br/>Research Interests: Lyme disease, vector-borne microbial diseases, host-microbiome interactions, tick salivary proteins
+
+<hr>
+**Sabrina White, Ph.D. Candidate**
+<br/>Research Interests: Vector-borne microbial diseases, host-microbiome interactions, microbiome manipulation, tick hormones
+
+<hr>
+
+title: Former Lab Members
+
+<hr>
+
 <img align="right" width="100" height="100" src="https://raw.githubusercontent.com/tick-lab/tick-lab.github.io/master/img/Elizabeth_Mitchell.jpg">
 **Elizabeth Mitchell, Research Specialist**
 <br/>Research Interests: TBD
@@ -32,19 +51,11 @@ title: Lab Members
 <hr>
 
 <img align="right" width="100" height="100" src="http://raw.githubusercontent.com/tick-lab/tick-lab.github.io/master/img/Viviana_Mancilla.jpg">
-**Viviana Mancilla, Ph.D. Candidate**
+**Viviana Mancilla, Ph.D.**
 <br/>Research Interests: Gut microbiome, prebiotics, gut fermentation, gut-brain axis, bioinformatics
 
 <hr>
 
 <img align="right" width="100" height="100" src="http://raw.githubusercontent.com/tick-lab/tick-lab.github.io/master/img/Austin_Brown.png">
-**Austin Brown, Ph.D. Candidate**
+**Austin Brown, M.S.**
 <br/>Research Interests: Neurological development, pathogenic microbes, immune avoidance mechanisms & pathways
-
-<hr>
-
-<img align="right" width="100" height="100" src="https://raw.githubusercontent.com/tick-lab/tick-lab.github.io/master/img/Megan_Williams.jpeg">
-**Megan Williams, Ph.D. Student**
-<br/>Research Interests: Lyme disease, vector-borne microbial diseases, host-microbiome interactions, tick salivary proteins
-
-<hr>
